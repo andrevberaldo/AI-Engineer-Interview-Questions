@@ -1,5 +1,7 @@
 # 🧭 Prompt Engineering & Context Engineering
 
+> 🇧🇷 Disponível em português do Brasil: [README.pt-BR.md](README.pt-BR.md) · [questions.pt-BR.md](questions.pt-BR.md)
+
 Every AI engineer interview touches this topic because it is the highest-leverage, lowest-cost knob you control in production: most quality problems are context problems, not model problems. Expect it in product-engineering loops ("design the prompt for this feature"), agent-design rounds, and debugging exercises ("this prompt regressed - why?"). It gets asked at every level, from new-grad GenAI roles to staff agent-platform roles - what changes with seniority is whether you can talk about evals, caching economics, and context management rather than just "add few-shot examples."
 
 ## Crash course
