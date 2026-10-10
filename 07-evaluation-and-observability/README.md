@@ -1,5 +1,7 @@
 # 🧪 Evals & Observability
 
+> 🇧🇷 Disponível em português do Brasil: [README.pt-BR.md](README.pt-BR.md) · [questions.pt-BR.md](questions.pt-BR.md)
+
 Nothing separates senior AI engineers from prompt hobbyists faster than this topic: anyone can demo an LLM feature, but only people who have shipped one can explain how they *knew* it worked, kept working, and got better. Expect eval questions in every serious loop - as conceptual probes ("how would you evaluate this?"), as the backbone of system-design rounds, and as debugging scenarios ("quality dropped after a model update, go"). Interviewers at frontier labs, big tech, and startups all use it because eval maturity is the single best proxy for having actually operated an LLM system in production.
 
 ## Crash course
