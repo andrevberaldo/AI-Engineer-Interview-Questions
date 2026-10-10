@@ -1,5 +1,7 @@
 # 🧠 LLM & Transformer Fundamentals
 
+> 🇧🇷 Disponível em português do Brasil: [README.pt-BR.md](README.pt-BR.md) · [questions.pt-BR.md](questions.pt-BR.md)
+
 This is the single most heavily tested topic in AI Engineer interviews: every frontier lab, big-tech AI team, and serious startup will probe whether you actually understand what happens inside the model you're building on, or whether you're just calling an API. Expect these questions at every level - screens use them to filter, onsites use them to calibrate depth, and system-design rounds assume this material as vocabulary. If you only have time to master one section of this repo, make it this one.
 
 ## Crash course
