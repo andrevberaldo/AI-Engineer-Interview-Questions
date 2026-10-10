@@ -1,5 +1,7 @@
 # 🖼️ Multimodal Models
 
+> 🇧🇷 Disponível em português do Brasil: [README.pt-BR.md](README.pt-BR.md) · [questions.pt-BR.md](questions.pt-BR.md)
+
 Multimodal questions show up in two flavours: conceptual ("how does an image get into an LLM?", "explain diffusion") in screens and model-knowledge rounds, and applied ("design a document-extraction pipeline", "build a voice agent under a latency budget") in system-design rounds. Anyone interviewing for a GenAI product role gets the applied flavour - document AI, multimodal RAG, and voice agents are three of the most common real workloads in 2026 - and frontier-lab interviews add the architecture and generation depth.
 
 ## Crash course
