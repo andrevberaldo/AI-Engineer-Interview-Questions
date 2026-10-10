@@ -1,5 +1,7 @@
 # 🧠 ML & Deep Learning Foundations
 
+> 🇧🇷 Disponível em português do Brasil: [README.pt-BR.md](README.pt-BR.md) · [questions.pt-BR.md](questions.pt-BR.md)
+
 Every AI Engineer loop - frontier lab, big tech, or startup - still opens with fundamentals: interviewers use them to separate people who *operate* models from people who *understand* them. Expect these questions in phone screens, as warm-ups before system design, and as depth probes when you claim LLM experience ("you fine-tuned a model - why AdamW? why warmup?"). You don't need research-level math, but you must explain these concepts crisply and connect them to modern transformer training.
 
 ## Crash course
