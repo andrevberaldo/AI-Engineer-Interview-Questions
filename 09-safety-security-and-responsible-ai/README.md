@@ -1,5 +1,7 @@
 # 🛡️ Safety, Security & Responsible AI
 
+> 🇧🇷 Disponível em português do Brasil: [README.pt-BR.md](README.pt-BR.md) · [questions.pt-BR.md](questions.pt-BR.md)
+
 Every company shipping LLM features now runs a security review, and "how would you stop prompt injection?" has become the AI-engineering equivalent of "how would you prevent SQL injection?" - except the honest answer is harder. This topic shows up in system-design rounds for AI/GenAI engineer roles, in dedicated security loops at frontier labs, and increasingly as a filter question anywhere agents touch real user data: interviewers want engineers who design for failure, not ones who believe a system prompt is a security boundary.
 
 ## Crash course
