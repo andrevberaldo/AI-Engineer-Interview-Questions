@@ -2,6 +2,8 @@
 
 > 🇧🇷 Tradução em português do Brasil. Versão original em inglês: [README.md](README.md).
 
+> 📚 Material de apoio: [Glossário de estudo](glossary.pt-BR.md), com explicações simples dos termos técnicos deste módulo.
+
 As perguntas sobre multimodal aparecem em dois formatos. O conceitual ("como uma imagem entra em um LLM?", "explique diffusion") é comum em screenings e em rodadas de conhecimento de modelos. O aplicado ("projete um pipeline de extração de documentos", "construa um voice agent dentro de um orçamento de latency") aparece em rodadas de system design. Quem entrevista para uma vaga de produto GenAI enfrenta o formato aplicado: document AI, multimodal RAG e voice agents estão entre as três cargas de trabalho reais mais comuns em 2026. Já as entrevistas em frontier labs acrescentam profundidade em arquitetura e em geração.
 
 ## Crash course

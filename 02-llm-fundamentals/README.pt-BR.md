@@ -2,6 +2,8 @@
 
 > 🇧🇷 Tradução em português do Brasil. Versão original em inglês: [README.md](README.md).
 
+> 📚 Material de apoio: [Glossário de estudo](glossary.pt-BR.md), com explicações simples dos termos técnicos deste módulo.
+
 Este é o tópico mais cobrado em entrevistas de AI Engineer. Todo frontier lab, time de IA de big tech e startup séria quer saber se você entende de verdade o que acontece dentro do modelo sobre o qual está construindo, ou se apenas chama uma API. Espere estas perguntas em qualquer nível: os screens as usam para filtrar, os onsites para calibrar profundidade, e as rodadas de system design tratam este conteúdo como vocabulário básico. Se você só tiver tempo de dominar uma seção deste repositório, que seja esta.
 
 ## Crash course

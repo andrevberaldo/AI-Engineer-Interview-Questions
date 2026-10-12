@@ -2,6 +2,8 @@
 
 > 🇧🇷 Tradução em português do Brasil. Versão original em inglês: [README.md](README.md).
 
+> 📚 Material de apoio: [Glossário de estudo](glossary.pt-BR.md), com explicações simples dos termos técnicos deste módulo.
+
 Toda empresa que lança features com LLM hoje passa por uma revisão de segurança, e "como você impediria prompt injection?" virou, em AI engineering, o equivalente a "como você preveniria SQL injection?". A diferença é que aqui a resposta honesta é mais difícil. O tema aparece em rodadas de system design para vagas de AI/GenAI engineer, em loops dedicados de segurança nos frontier labs e, cada vez mais, como pergunta-filtro em qualquer lugar onde agents tocam dados reais de usuários. Os entrevistadores querem engenheiros que projetam já pensando na falha, não quem acredita que um system prompt é uma fronteira de segurança.
 
 ## Crash course

@@ -2,6 +2,8 @@
 
 > 🇧🇷 Tradução em português do Brasil. Versão original em inglês: [README.md](README.md).
 
+> 📚 Material de apoio: [Glossário de estudo](glossary.pt-BR.md), com explicações simples dos termos técnicos deste módulo.
+
 Toda entrevista de AI Engineer, seja em frontier lab, big tech ou startup, ainda começa pelos fundamentos. Os entrevistadores usam essas perguntas para separar quem *opera* modelos de quem os *entende*. Elas costumam aparecer em phone screens, como aquecimento antes de system design e como teste de profundidade quando você diz ter experiência com LLMs ("você fez fine-tuning de um modelo: por que AdamW? por que warmup?"). Você não precisa de matemática de nível de pesquisa, mas precisa explicar esses conceitos com clareza e ligá-los ao treinamento moderno de transformers.
 
 ## Crash course

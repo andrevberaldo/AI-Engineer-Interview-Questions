@@ -2,6 +2,8 @@
 
 > 🇧🇷 Tradução em português do Brasil. Versão original em inglês: [README.md](README.md).
 
+> 📚 Material de apoio: [Glossário de estudo](glossary.pt-BR.md), com explicações simples dos termos técnicos deste módulo.
+
 Este é o tópico que separa quem "chama a API" de quem "consegue ser dono de uma feature de LLM em produção". Ele domina as rodadas de system design para vagas de AI Engineer em labs, big techs e startups. Times com perfil de infra vão fundo em contas de KV cache e schedulers de batching. Times com perfil de produto vão fundo em SLOs, cost engineering e reliability. Em qualquer caso, esperam que você raciocine com números: bytes, tokens/sec, dólares.
 
 ## Crash course

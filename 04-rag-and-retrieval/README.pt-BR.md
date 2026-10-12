@@ -2,6 +2,8 @@
 
 > 🇧🇷 Tradução em português do Brasil. Versão original em inglês: [README.md](README.md).
 
+> 📚 Material de apoio: [Glossário de estudo](glossary.pt-BR.md), com explicações simples dos termos técnicos deste módulo.
+
 RAG é o sistema de LLM que as empresas mais colocam de fato em produção, então aparece em quase todo loop de entrevista de AI Engineer: em perguntas conceituais, em rodadas de system design ("construa uma busca sobre nossos docs") e em cenários de debugging ("a qualidade do retrieval caiu, vai"). Isso vale para frontier lab, para time de AI aplicada em big tech e para startup cujo produto inteiro é RAG. Os entrevistadores usam o tema para separar quem já colocou sistemas de retrieval no ar de quem só leu sobre eles.
 
 ## Crash course

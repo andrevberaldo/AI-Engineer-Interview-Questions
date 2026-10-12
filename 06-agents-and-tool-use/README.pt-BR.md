@@ -2,6 +2,8 @@
 
 > 🇧🇷 Tradução em português do Brasil. Versão original em inglês: [README.md](README.md).
 
+> 📚 Material de apoio: [Glossário de estudo](glossary.pt-BR.md), com explicações simples dos termos técnicos deste módulo.
+
 Um dos tópicos de AI engineering mais cobrados em 2025-2026. Todo frontier lab, time de AI de big tech e startup de agents pergunta sobre o assunto, e ele domina as rodadas de system design para vagas de AI engineer, GenAI engineer e LLM platform. Os entrevistadores usam o tema para separar quem colocou um agent em produção de quem só assistiu a uma demo: as perguntas exploram matemática de confiabilidade, segurança e engenharia de custo, não apenas vocabulário.
 
 ## Crash course

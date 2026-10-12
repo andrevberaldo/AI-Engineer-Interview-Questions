@@ -2,6 +2,8 @@
 
 > 🇧🇷 Tradução em português do Brasil. Versão original em inglês: [README.md](README.md).
 
+> 📚 Material de apoio: [Glossário de estudo](glossary.pt-BR.md), com explicações simples dos termos técnicos deste módulo.
+
 Todo loop de AI engineering termina do mesmo jeito: uma rodada comportamental, em que decidem se querem mesmo trabalhar com você, e um debrief em que "forte tecnicamente, mas não soube explicar o que entregou" derruba ofertas. Esta seção é um guia de campo do processo inteiro: como o loop de 2026 realmente é, estágio por estágio, como ele muda conforme o tipo de empresa, o que take-homes e portfólios precisam provar e como contar suas histórias de trabalho com AI para que elas marquem. Todo mundo é perguntado sobre esse material, de recém-formado a candidato staff, mas os seniores são cobrados com mais rigor.
 
 ## Anatomia do loop de AI Engineer de 2026

@@ -2,6 +2,8 @@
 
 > 🇧🇷 Tradução em português do Brasil. Versão original em inglês: [README.md](README.md).
 
+> 📚 Material de apoio: [Glossário de estudo](glossary.pt-BR.md), com explicações simples dos termos técnicos deste módulo.
+
 Toda entrevista de AI engineer passa por este tema, porque ele é a alavanca de maior impacto e menor custo que você controla em produção: a maioria dos problemas de qualidade é problema de contexto, não de modelo. Ele costuma aparecer em rodadas de product engineering ("projete o prompt para esta feature"), de design de agents e em exercícios de debugging ("este prompt regrediu, por quê?"). A pergunta vem em todos os níveis, de vagas GenAI para recém-formados a vagas staff de plataforma de agents. O que muda com a senioridade é se você consegue falar de evals, da economia de caching e do gerenciamento de contexto, em vez de apenas "adicione exemplos few-shot".
 
 ## Crash course
