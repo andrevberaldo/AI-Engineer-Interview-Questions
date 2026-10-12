@@ -2,6 +2,8 @@
 
 > 🇧🇷 Tradução em português do Brasil. Versão original em inglês: [README.md](README.md).
 
+> 📚 Material de apoio: [Glossário de estudo](glossary.pt-BR.md), com explicações simples dos termos técnicos deste módulo.
+
 Nenhum tema separa tão rápido o AI engineer sênior de quem só brinca com prompts. Qualquer pessoa consegue montar o demo de uma feature com LLM, mas só quem já colocou uma em produção sabe explicar como *soube* que ela funcionava, continuou funcionando e melhorou. Espere perguntas sobre evals em todo processo seletivo sério: como sondagem conceitual ("como você avaliaria isto?"), como espinha dorsal de rodadas de system design e como cenário de debugging ("a qualidade caiu depois de uma atualização do modelo, e agora?"). Frontier labs, big techs e startups usam o tema porque a maturidade em evals é o melhor indicador isolado de que a pessoa realmente operou um sistema de LLM em produção.
 
 ## Crash course
