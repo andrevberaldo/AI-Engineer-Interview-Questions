@@ -1,5 +1,7 @@
 # 🔎 RAG & Retrieval
 
+> 🇧🇷 Disponível em português do Brasil: [README.pt-BR.md](README.pt-BR.md) · [questions.pt-BR.md](questions.pt-BR.md)
+
 RAG is the most common LLM system that companies actually ship, so it shows up in almost every AI Engineer interview loop - as conceptual questions, as a system-design round ("build search over our docs"), and as debugging scenarios ("retrieval quality dropped, go"). Expect it whether you're interviewing at a frontier lab, a big-tech applied AI team, or a startup whose whole product is RAG; interviewers use it to separate people who have shipped retrieval systems from people who have only read about them.
 
 ## Crash course

@@ -1,5 +1,7 @@
 # 💼 Interview Process & Behavioral
 
+> 🇧🇷 Disponível em português do Brasil: [README.pt-BR.md](README.pt-BR.md) · [questions.pt-BR.md](questions.pt-BR.md)
+
 Every AI engineering loop ends the same way: a behavioural round where they decide whether they'd actually want to work with you, and a debrief where "strong technically, but couldn't explain what they shipped" kills offers. This section is a field guide to the whole process - what the 2026 loop actually looks like stage by stage, how it differs by company type, what take-homes and portfolios need to prove, and how to tell your AI work stories so they land. Everyone gets asked this material, from new grads to staff candidates; seniors get asked it harder.
 
 ## Anatomy of the 2026 AI Engineer loop

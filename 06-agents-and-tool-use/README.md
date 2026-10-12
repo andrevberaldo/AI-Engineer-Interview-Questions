@@ -1,5 +1,7 @@
 # 🤖 Agents, Tool Use & MCP
 
+> 🇧🇷 Disponível em português do Brasil: [README.pt-BR.md](README.pt-BR.md) · [questions.pt-BR.md](questions.pt-BR.md)
+
 One of the most heavily tested AI engineering topics of 2025-2026. Every frontier lab, big tech AI team, and agent startup asks about it, and it dominates system-design rounds for AI engineer, GenAI engineer, and LLM platform roles. Interviewers use it to separate people who have shipped an agent to production from people who have watched a demo - the questions probe reliability math, security, and cost engineering, not just vocabulary.
 
 ## Crash course
