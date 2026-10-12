@@ -2,6 +2,8 @@
 
 > 🇧🇷 Tradução em português do Brasil. Versão original em inglês: [README.md](README.md).
 
+> 📚 Material de apoio: [Glossário de estudo](glossary.pt-BR.md), com explicações simples dos termos técnicos deste módulo.
+
 Este tópico aparece em quase todo processo seletivo de AI Engineer, porque separa quem apenas chama APIs de quem sabe mudar o comportamento de um modelo. Conte com ele se você está se candidatando a vagas de GenAI/LLM engineer em frontier labs, em times de applied ML de big techs ou em qualquer startup que entrega modelos customizados. Os entrevistadores usam o tema para checar se você sabe *quando* fazer fine-tuning, quanto isso custa e como o post-training funciona por baixo dos panos.
 
 ## Crash course
